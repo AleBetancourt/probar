@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OperacionesMatematicas</string>
+    <string name="botonsuma">Sumar</string>
+    <string name="botonresta">Restar</string>
+    <string name="botonmultiplicar">Multiplicar</string>
+    <string name="botondividir">Dividir</string>
+
+</resources>
